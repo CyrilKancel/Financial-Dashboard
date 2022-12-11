@@ -1,0 +1,10 @@
+pandas
+PILLOW
+datetime
+yfinance
+streamlit
+yahoo_fin
+st-annotated-text
+plotly
+numpy
+pandas_datareader
